@@ -7,8 +7,8 @@
 # Game description
 ### This is a program written in python with which you can play the game - "Hangman".
 ### In this game you need to guess the word by the number of letters and you have a limited number of acceptable mistakes (after spending this amount and not guessing the word, you lose)
-#
-#
-#
-#
+
+
+
+
 ###### чит код: \get_griddy
